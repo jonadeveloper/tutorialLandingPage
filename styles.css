@@ -395,19 +395,3 @@ hr{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #6c6b6b;
 }
-
-#quote-left{
-    margin: 0px 15px;
-    width: 40px;
-    height: 30px;
-}
-
-#quote-right{
-    margin: 0px 15px;
-    width: 40px;
-    height: 30px;
-}
-
-#client2{
-    flex-direction: row-reverse;
-}
