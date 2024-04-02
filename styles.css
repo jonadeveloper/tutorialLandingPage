@@ -395,3 +395,7 @@ hr{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #6c6b6b;
 }
+
+#client2{
+    flex-direction: row-reverse;
+}
