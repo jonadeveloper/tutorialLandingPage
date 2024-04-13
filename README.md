@@ -1,1 +1,1 @@
-![Portada readme](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/ea778c0f-aa3e-40af-ba43-fc88a99ea6d5)
+![portada](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/dddb94c8-1258-4576-9162-143ee9e2cec8)
