@@ -61,3 +61,6 @@ git clone 'URL'
 ```
 <p>Reemplazando 'URL' por la url que copiaron encerrandola entre ' '. Esto va a clonar el repositorio en su equipo.</p>
 
+<h4>Listo. Estamos listos para empezar a trabajar.</h4>
+
+<p>Podes obtener el mismo resultado siguiendo paso a paso el siguiente video: https://youtu.be/Kr1WHoxjRhc?si=07g1lsz1VtEtnZGY</p>
