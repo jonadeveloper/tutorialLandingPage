@@ -8,3 +8,7 @@
 - Contar con un editor de codigo. Pueden utilizar el que sea de su preferencia. Pero, recomiendo Visual Studio Code. [Descargar](https://code.visualstudio.com/download)
 - Contar con una cuenta en GitHub. En caso de no tener una, pueden crearla haciendo click en el siguiente enlace: [GitHub](https://github.com/).
 - Contar con una cuenta en vercel. En caso de no tener una, pueden crearla haciendo click en el siguiente enlace:  [Vercel](https://vercel.com/login).
+
+<h4>Recursos:</h4>
+
+[Descarga aqui los recursos](https://drive.google.com/drive/folders/1m9uP_rYWZNstC4cQJP68S9oJjRSVnXAr?usp=drive_link). Van a ser necesarios para realizar el proyecto paso a paso. Sin perder tiempo buscando recursos en internet.
