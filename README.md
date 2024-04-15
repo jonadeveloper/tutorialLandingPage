@@ -54,4 +54,10 @@
 
 ![clon repo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/0a2515cd-8646-4798-b6e1-441fb404acac)
 
+<p>Luego de copiar la URL van a abrir su terminal de git bash o la terminal integrada en vs code y copiar el siguiente codigo </p>
+
+```git
+git clone 'URL'
+```
+<p>Reemplazando 'URL' por la url que copiaron encerrandola entre ' '. Esto va a clonar el repositorio en su equipo.</p>
 
