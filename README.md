@@ -13,3 +13,8 @@
 <h4>Recursos:</h4>
 
 [Descarga aqui los recursos](https://drive.google.com/drive/folders/1m9uP_rYWZNstC4cQJP68S9oJjRSVnXAr?usp=drive_link). Van a ser necesarios para realizar el proyecto paso a paso. Sin perder tiempo buscando recursos en internet.
+
+<br>
+<br>
+
+![Ahora si  Comencemos!!!](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/b94112c0-1e44-4345-92da-613913f9cc6b)
