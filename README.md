@@ -19,7 +19,7 @@
 
 ![Ahora si  Comencemos!!!](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/b94112c0-1e44-4345-92da-613913f9cc6b)
 
-<H4>1er paso - Iniciamos el proyecto.</H4>
+<H4>1er paso - Iniciamos el proyecto creando el repositorio.</H4>
 
 <p> Antes de empezar a hacer codigo lo primero que vamos a hacer es crear el repositorio. Entra a tu cuenta de GitHub en el apartado repositorio y dale click al boton que dice New.</p>
 
@@ -41,3 +41,17 @@
 <p>Como ultimo paso para la creación del repo, lo unico que hay qye hacer es darle click al boton verde que dice "create repository"</p>
 
 ![create repository](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/08d6cc74-fc30-44c9-b164-f232d49176e1)
+
+<br>
+
+<h6>Listo!!! Ya Tenemos el repositorio de nuestro proyecto creado.</h6>
+
+<br>
+
+<H4>2do paso - clonamos el repositorio en nuestro equipo.</H4>
+
+<p>Para clonar el repositorio vamos a entrar en el mismo y el el boton code hacemos click y copiamos la URL</p>
+
+![clon repo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/0a2515cd-8646-4798-b6e1-441fb404acac)
+
+
