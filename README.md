@@ -18,3 +18,9 @@
 <br>
 
 ![Ahora si  Comencemos!!!](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/b94112c0-1e44-4345-92da-613913f9cc6b)
+
+<H4>1er paso - Iniciamos el proyecto.</H4>
+
+<p> Antes de empezar a hacer codigo lo primero que vamos a hacer es crear el repositorio.</p>
+
+![Diseño sin título](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/690f3667-6548-49ad-83a4-0c9b843b585d)
