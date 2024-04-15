@@ -28,3 +28,11 @@
 
 <br>
 <p>Para crear el repo vamos a tener que agregar algunas configuraciones que, les detallo en la siguiente lista.</p>
+
+- Agregar un nombre al repositorio. (Yo le di el nombre tutorialLandingPage pero pueden usar el que prefieran).
+- Descripcion del proyecto (opcional).
+- Privacidad de repositorio. Seleccionar la opcion Public.
+- Agregar README. Dar click en esa opción para que al momento de crear el repo se cree un README.MD
+- Seleccionar una licencia (opcional). No es obligatorio pero si, recomendable elegir una licencia bajo la cual crear el proyecto. Yo seleccione la licencia MIT.
+
+![config repo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/d2eaec3e-4b28-4640-8c05-70f356341962)
