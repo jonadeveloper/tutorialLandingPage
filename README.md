@@ -23,4 +23,8 @@
 
 <p> Antes de empezar a hacer codigo lo primero que vamos a hacer es crear el repositorio. Entra a tu cuenta de GitHub en el apartado repositorio y dale click al boton que dice New.</p>
 
-![Diseño sin título](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/690f3667-6548-49ad-83a4-0c9b843b585d)
+![new repo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/cddcc4e4-dc9d-443e-bce7-c8a23560ab01)
+
+
+<br>
+<p>Para crear el repo vamos a tener que agregar algunas configuraciones que, les detallo en la siguiente lista.</p>
