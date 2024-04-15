@@ -36,3 +36,8 @@
 - Seleccionar una licencia (opcional). No es obligatorio pero si, recomendable elegir una licencia bajo la cual crear el proyecto. Yo seleccione la licencia MIT.
 
 ![config repo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/d2eaec3e-4b28-4640-8c05-70f356341962)
+
+<br>
+<p>Como ultimo paso para la creación del repo, lo unico que hay qye hacer es darle click al boton verde que dice "create repository"</p>
+
+![create repository](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/08d6cc74-fc30-44c9-b164-f232d49176e1)
