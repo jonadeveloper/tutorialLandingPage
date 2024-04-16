@@ -64,3 +64,6 @@ git clone 'URL'
 <h4>Listo. Estamos listos para empezar a trabajar.</h4>
 
 <p>Podes obtener el mismo resultado siguiendo paso a paso el siguiente video: https://youtu.be/Kr1WHoxjRhc?si=07g1lsz1VtEtnZGY</p>
+<br>
+
+![Hora del codigo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/ab5a5b7c-eace-4c2b-9b0b-7481b483bbc5)
