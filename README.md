@@ -100,5 +100,6 @@ Playlist: https://youtube.com/playlist?list=PLFgWCIypOKkBMZZNKm5fBTMkOvIVL69PP&s
 
 https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/c05c7dca-85a1-4bf1-a842-3d36a0afafab
 
+Pueden ver el proyecto en linea visitando el siguiente link: https://landingpagejonadev.vercel.app/
 
-
+> Si llegaron hasta aqui, les agradezco. Espero que les haya servido y estan mas que invitados a forkearse en mi repo y modificar el proyecto a su gusto. Saludos y hasta la proxima!!!
