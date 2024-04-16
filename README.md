@@ -63,7 +63,36 @@ git clone 'URL'
 
 <h4>Listo. Estamos listos para empezar a trabajar.</h4>
 
+<h4>3er paso -Creación de los primeros ficheros</h4>
+
+<p>Crea dentro de tu proyecto un fichero con el nombre index.html y genera su estructura basica</p>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web pro solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    
+</body>
+
+</html>
+```
+<p>Ahora crea el fichero styles.css para darle estilos a la web.
+  <br>
 <p>Podes obtener el mismo resultado siguiendo paso a paso el siguiente video: https://youtu.be/Kr1WHoxjRhc?si=07g1lsz1VtEtnZGY</p>
 <br>
 
 ![Hora del codigo](https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/ab5a5b7c-eace-4c2b-9b0b-7481b483bbc5)
+
+<h3>Llegados a este punto ya tenemos todo lo necesario para empezar.</h3>
+
+<p>Sigamos este proyecto juntos en YouTube. A continuación les dejo la playlist en las que los voy a guiar paso a paso para lograr llevar a cabo este mini proyecto.</p>
+
+Playlist: https://youtube.com/playlist?list=PLFgWCIypOKkBMZZNKm5fBTMkOvIVL69PP&si=ao87BEovHOwZb_O1
