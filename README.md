@@ -96,3 +96,9 @@ git clone 'URL'
 <p>Sigamos este proyecto juntos en YouTube. A continuación les dejo la playlist en las que los voy a guiar paso a paso para lograr llevar a cabo este mini proyecto.</p>
 
 Playlist: https://youtube.com/playlist?list=PLFgWCIypOKkBMZZNKm5fBTMkOvIVL69PP&si=ao87BEovHOwZb_O1
+<br>
+
+https://github.com/jonadeveloper/tutorialLandingPage/assets/59519580/c05c7dca-85a1-4bf1-a842-3d36a0afafab
+
+
+
